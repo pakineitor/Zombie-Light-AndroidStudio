@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856645304718",
+    "project_id": "zombielight-mobile",
+    "storage_bucket": "zombielight-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856645304718:android:61dbe108da497fe8bd24df",
+        "android_client_info": {
+          "package_name": "com.FranSoft.zombilight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856645304718-satop0j5573bvu466hn1n8t8dlh8h7q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FranSoft.zombilight",
+            "certificate_hash": "4d2f0cf88c2962b77e3c684f42faa7bac100e4f3"
+          }
+        },
+        {
+          "client_id": "856645304718-kfiot9m5flllrj90lv6v4nvb6t027v1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVJneqD-HIQ-_eyOkw-ph7wjH6F_NtwvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856645304718-kfiot9m5flllrj90lv6v4nvb6t027v1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
