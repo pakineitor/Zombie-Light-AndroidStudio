@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">     Zombie Light  </string>
+    <string name="app_name"     >  Zombie Light </string>
                                                                 <!-- Actividad de la pantalla 1      -->
-    <string name="bt_Login">     LOGIN         </string>
-    <string name="bt_Registra">  REGISTRAR     </string>
+    <string name="bt_Login"     >  LOGIN        </string>
+    <string name="bt_Registra"  >  REGISTRAR    </string>
                                                                 <!-- Actividad de pantalla registrar -->
-    <string name="Correo">       Correo        </string>
-    <string name="Password">     Contraseña   </string>
-    <string name="Nombre">       Nombre        </string>
-    <string name="Fechatxt">     Fecha         </string>
-    <string name="Aceptar">      Aceptar       </string>
+    <string name="Correo"       >  Correo       </string>
+    <string name="Password"     >  Contraseña   </string>
+    <string name="Nombre"       >  Nombre       </string>
+    <string name="Fechatxt"     >  Fecha        </string>
+    <string name="Aceptar"      >  Aceptar      </string>
 
 </resources>
