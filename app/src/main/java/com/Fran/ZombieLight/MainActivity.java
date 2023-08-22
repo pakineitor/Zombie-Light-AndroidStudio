@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         BotonRegistrar = findViewById(R.id.bt_Registrar);                      //Asocio esta variable con la del xml.
         BotonLogin     = findViewById(R.id.bt_Login);
 
